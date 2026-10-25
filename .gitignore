@@ -1,0 +1,3 @@
+# Build-Ausgabe von arduino-cli / Arduino IDE
+build/
+.DS_Store

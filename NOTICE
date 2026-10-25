@@ -1,0 +1,17 @@
+CraftConsole-Firmware
+Copyright (c) 2026 Hendrik Kleinwächter
+
+Firmware und Anleitung in diesem Repo: MIT-Lizenz (siehe LICENSE) – Open Source.
+Du darfst alles nutzen, ändern, weitergeben und auch verkaufen; der Copyright- und
+Lizenzhinweis muss dabei bleiben.
+
+Fremdkomponenten: Die fertige .uf2-Datei enthält Teile von arduino-pico, Raspberry Pi
+Pico SDK, TinyUSB, Adafruit TinyUSB, Adafruit ADS1X15 und Adafruit BusIO. Für diese Teile
+gelten ihre eigenen Lizenzen, siehe THIRD-PARTY-LICENSES.md und den Ordner LICENSES/.
+
+Namen und Logo
+--------------
+"ControlCraft" und "CraftConsole" sowie das Logo sind Namen von Hendrik Kleinwächter
+(Markenanmeldung geplant). Die MIT-Lizenz gilt für den Code und die Doku, nicht für
+diese Namen: Eigene Abwandlungen bitte unter einem anderen Namen veröffentlichen und
+nicht so auftreten, als kämen sie von Hendriks Werkstatt.
